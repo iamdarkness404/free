@@ -27,7 +27,7 @@
 
 ## ***About Lite ***:
 
-Lite is a python based OLD ID CLONE  script. You can clone unlimited OLD ID   by using this tool. This tool works on any Android devices without root.
+Free is a python based OLD ID CLONE  script. You can clone unlimited OLD ID  by using this tool. This tool works on any Android devices without root.
 
 ## Install on Termux :
 ```
