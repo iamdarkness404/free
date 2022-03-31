@@ -40,7 +40,7 @@ pkg install pip2
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/iamdarkness/free
-Note: (This Tools Are Free, So You No Need Permission To Use DARK 'lite' Tools Enjoy)
+Note: (This Tools Are Free, So You No Need Permission To Use DARK 'free' Tools Enjoy)
 
 
 
