@@ -57,7 +57,7 @@ Note: (This Tools Are Free, So You No Need Permission To Use DARK 'free' Tools E
 ## ***Follow Me***
 
 * Page : [Follow Us](https://www.facebook.com/profile.php?id=ABBAAGIYA)
-* GitHub : [Follow Me](https://github.com/iamdarness404)
+* GitHub : [Follow Me](https://github.com/iamdarkness404)
 
 ### Warning
 
