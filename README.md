@@ -25,7 +25,7 @@
 <h1 align="center">gf-hack</h1>
 <p align="center">    2009 OLD ACCOUNT JUST NOW CLONE  </p>
 
-## ***About Lite ***:
+## ***About Free ***:
 
 Free is a python based OLD ID CLONE  script. You can clone unlimited OLD ID  by using this tool. This tool works on any Android devices without root.
 
